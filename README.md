@@ -1,0 +1,1 @@
+This is an example repository I made at the Coding Dojo.
